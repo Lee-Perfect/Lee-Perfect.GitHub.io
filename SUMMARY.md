@@ -14,4 +14,14 @@
 
 * [T1 page](t1/t1-page.md)
 * [ceshi6](t1/ceshi6.md)
+* [百问百答制作规范](t1/bai-wen-bai-da-zhi-zuo-gui-fan.md)
+
+## T2
+
+* [测试8](t2/ce-shi-8.md)
+
+## T3
+
+* [2days](t3/2days.md)
+* [3days](t3/3days.md)
 
