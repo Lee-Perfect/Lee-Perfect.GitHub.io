@@ -1,23 +1,19 @@
+---
+description: 一个菜鸟起飞的地方，一条名师之路的起点。
+---
+
 # 新手必读
 
-## Getting Super Powers
+## 壮士，先干了这碗鸡汤！
 
-Becoming a super hero is a fairly straight forward process:
+### 不管在哪里上班，请先记住这6点：
 
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+1. 工作不养闲人，团队不养懒人；
+2. 入一行先别惦记着赚钱，先让自己值钱；
+3. 干工作没谁是顺利的，受点气是正常的；
+4. 没有那个行业的钱是好赚的；
+5. 赚不到钱，赚知识；赚不到知识，赚经历；赚不到经历，赚阅历；
+6. 只有先改变自己的态度，才能改变自己的高度；只有先改变自己的工作态度，才能有\*\*职业高度\*\*。
 
 
 
