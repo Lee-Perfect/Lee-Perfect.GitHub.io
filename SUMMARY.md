@@ -16,8 +16,11 @@
 
 ## 花名册
 
-* [言语组](t2/yan-yu-zu.md)
-* [数量组](t2/shu-liang-zu.md)
-* [判断组](t2/ce-shi-8.md)
-* [申论组](t2/shen-lun-zu.md)
+* [管理层](t2/guan-li-ceng.md)
+* [公职项目部](t2/gong-zhi-xiang-mu-bu/README.md)
+  * [言语组](t2/gong-zhi-xiang-mu-bu/yan-yu-zu.md)
+  * [数量组](t2/gong-zhi-xiang-mu-bu/shu-liang-zu.md)
+  * [判断组](t2/gong-zhi-xiang-mu-bu/ce-shi-8.md)
+  * [申论组](t2/gong-zhi-xiang-mu-bu/shen-lun-zu.md)
+* [事业单位项目部](t2/shi-ye-dan-wei-xiang-mu-bu.md)
 
