@@ -1,27 +1,23 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [百问百答「面试」](bai-wen-bai-da-mian-shi.md)
-* [Untitled](untitled/README.md)
-  * [next1](untitled/next1.md)
-* [财务报销（分校内）](cai-wu-bao-xiao-fen-xiao-nei.md)
-* [测试3](ce-shi-3.md)
-* [测试4](ce-shi-4.md)
-* [测试5](ce-shi-5.md)
-* [测试7](ce-shi-7.md)
+* [新手必读](xin-shou-bi-du.md)
 
-## T1
+## 财务报销
 
-* [T1 page](t1/t1-page.md)
-* [ceshi6](t1/ceshi6.md)
-* [百问百答制作规范](t1/bai-wen-bai-da-zhi-zuo-gui-fan.md)
+* [教师差旅（分校内）](t1/cai-wu-bao-xiao-fen-xiao-nei.md)
+* [教师差旅（分校外）](t1/ce-shi-3.md)
+* [专程讲座报销](t1/t1-page.md)
+* [培训报销](t1/ceshi6.md)
 
-## T2
+## 工作规范
 
-* [测试8](t2/ce-shi-8.md)
+* [考勤](t3/2days.md)
 
-## T3
+## 花名册
 
-* [2days](t3/2days.md)
-* [3days](t3/3days.md)
+* [言语组](t2/yan-yu-zu.md)
+* [数量组](t2/shu-liang-zu.md)
+* [判断组](t2/ce-shi-8.md)
+* [申论组](t2/shen-lun-zu.md)
 

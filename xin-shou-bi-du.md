@@ -1,8 +1,4 @@
----
-description: '007'
----
-
-# 测试7
+# 新手必读
 
 ## Getting Super Powers
 
