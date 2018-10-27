@@ -8,17 +8,21 @@
 
 希望通过《高效能工作手册》帮助团队快速成长，协助小伙伴养成良好工作习惯，提高工作效能，少做无用功，多出高质量成果，**把节省出来的生命浪费在美好的事物上！**
 
+**同时，该手册是一个不断迭代的手册，欢迎老师们多提需求和意见，更欢迎老师们贡献出自己的工作方法，与大家一同认知升级，技能升级，效能升级！**
+
 ### 使用说明：
 
-《高效能工作手册》本质上是一个网页，在PC端和移动端都可以直接通过浏览器打开使用。
+《高效能工作手册》本质上是一个网页，在PC端和移动端都可以直接通过浏览器登陆网址[`www.huatu.ren`](https://www.hautu.ren)查看。
+
+[`www.huatu.ren`](https://www.hautu.ren)网址寓意「华图人」，很好记吧；\)
 
 #### PC端
 
-在PC浏览器登陆[https://www.nicework.fun](https://www.nicework.fun)
+在PC浏览器登陆[`www.huatu.ren`](https://www.hautu.ren)
 
 #### 移动端
 
-在手机浏览器登陆[https://www.nicework.fun](https://www.nicework.fun)
+在手机浏览器登陆[`www.huatu.ren`](https://www.hautu.ren)
 
 ## 「高效能」的定义
 

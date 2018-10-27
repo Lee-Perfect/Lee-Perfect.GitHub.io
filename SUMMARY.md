@@ -15,6 +15,18 @@
 
 * [考勤](t3/2days.md)
 
+## 工作备忘录
+
+* [Untitled](gong-zuo-bei-wang-lu/untitled.md)
+
+## 课程设计
+
+* [Untitled](ke-cheng-she-ji/untitled.md)
+
+## 工作方法论
+
+* [Untitled](gong-zuo-fang-fa-lun/untitled.md)
+
 ## 花名册
 
 * [管理层](t2/guan-li-ceng.md)
@@ -24,16 +36,4 @@
   * [判断组](t2/gong-zhi-xiang-mu-bu/ce-shi-8.md)
   * [申论组](t2/gong-zhi-xiang-mu-bu/shen-lun-zu.md)
 * [事业单位项目部](t2/shi-ye-dan-wei-xiang-mu-bu.md)
-
-## 工作方法论
-
-* [Untitled](gong-zuo-fang-fa-lun/untitled.md)
-
-## 工作备忘录
-
-* [Untitled](gong-zuo-bei-wang-lu/untitled.md)
-
-## 课程设计
-
-* [Untitled](ke-cheng-she-ji/untitled.md)
 
