@@ -5,10 +5,10 @@
 
 ## 财务报销
 
-* [教师差旅（分校内）](t1/cai-wu-bao-xiao-fen-xiao-nei.md)
-* [教师差旅（分校外）](t1/ce-shi-3.md)
-* [专程讲座报销](t1/t1-page.md)
-* [培训报销](t1/ceshi6.md)
+* [教师差旅（分校内）](cai-wu-bao-xiao/cai-wu-bao-xiao-fen-xiao-nei.md)
+* [教师差旅（分校外）](cai-wu-bao-xiao/ce-shi-3.md)
+* [专程讲座报销](cai-wu-bao-xiao/t1-page.md)
+* [培训报销](cai-wu-bao-xiao/pei-xun-bao-xiao.md)
 
 ## 工作规范
 
