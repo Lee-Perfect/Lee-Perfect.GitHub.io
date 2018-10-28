@@ -18,7 +18,7 @@ description: Welcome to Highly Effcettive Working Manual
 
 《高效能工作手册》本质上是一个网页，在PC端和移动端都可以直接通过浏览器登陆网址[`www.huatu.ren`](https://www.hautu.ren)查看。
 
-[`www.huatu.ren`](https://www.hautu.ren)（网址是「华图人」三字的全拼，很好记吧 😁 ）
+[`www.huatu.ren`](https://www.hautu.ren)（网址是「华图人」三字的全拼， `huatu`的后缀是 `.ren`，而非`.com`，别记错咯 😁 ）
 
 #### PC端
 
