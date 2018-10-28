@@ -4,7 +4,7 @@ description: Welcome to Highly Effcettive Working Manual
 
 # Welcome
 
-## 谢天谢地，你来啦！
+## 😃 谢天谢地，你来啦！
 
 欢迎打开由广西华图产品团队制作的《高效能工作手册》，在这里你可以看到在工作中应该知道的一些原则和方法。
 
@@ -28,7 +28,7 @@ description: Welcome to Highly Effcettive Working Manual
 
 在手机浏览器登陆[`www.huatu.ren`](https://www.hautu.ren)
 
-## 「高效能」的定义
+## 🕘 「高效能」的定义
 
 #### 「高效能」公式：
 
