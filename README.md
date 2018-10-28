@@ -1,4 +1,8 @@
-# Welcome!
+---
+description: Welcome to Highly Effcettive Working Manual
+---
+
+# Welcome
 
 ## 谢天谢地，你来啦！
 

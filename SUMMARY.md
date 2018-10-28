@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Welcome](README.md)
 * [新手必读](xin-shou-bi-du.md)
 
 ## 财务报销
