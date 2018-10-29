@@ -11,6 +11,17 @@
 * [专程讲座报销](cai-wu-bao-xiao/jiang-zuo-bao-xiao.md)
 * [专程培训报销](cai-wu-bao-xiao/zhuanc-cheng-pei-xun-bao-xiao.md)
 
+## 工作方法论
+
+* [不做「伪工作者」](gong-zuo-fang-fa-lun/bu-zuo-wei-gong-zuo-zhe.md)
+* [也谈10000小时](gong-zuo-fang-fa-lun/ye-tan-10000-xiao-shi.md)
+* [再谈10000小时](gong-zuo-fang-fa-lun/zai-tan-10000-xiao-shi.md)
+* [职场上的4个误区](gong-zuo-fang-fa-lun/zhi-chang-shang-de-4-ge-wu-qu.md)
+* [职场完美进阶攻略](gong-zuo-fang-fa-lun/zhi-chang-wan-mei-jin-jie-gong-lve.md)
+* [五级工程师和职业发展](gong-zuo-fang-fa-lun/wu-ji-gong-cheng-shi-he-zhi-ye-fa-zhan.md)
+* [期望值函数与其在工作中的应用](gong-zuo-fang-fa-lun/qi-wang-zhi-han-shu-yu-qi-zai-gong-zuo-zhong-de-ying-yong.md)
+* [做好最后的1%](gong-zuo-fang-fa-lun/zuo-hao-zui-hou-de-1.md)
+
 ## 工作规范
 
 * [考勤制度](t3/2days.md)
@@ -27,14 +38,6 @@
   * [言语](ke-cheng-she-ji/bi-shi/yan-yu.md)
   * [判断](ke-cheng-she-ji/bi-shi/pan-duan.md)
   * [数资](ke-cheng-she-ji/bi-shi/shu-zi.md)
-
-## 工作方法论
-
-* [不做伪工作者](gong-zuo-fang-fa-lun/bu-zuo-wei-gong-zuo-zhe.md)
-* [也谈10000小时](gong-zuo-fang-fa-lun/ye-tan-10000-xiao-shi.md)
-* [再谈10000小时](gong-zuo-fang-fa-lun/zai-tan-10000-xiao-shi.md)
-* [五级工程师和职业发展](gong-zuo-fang-fa-lun/wu-ji-gong-cheng-shi-he-zhi-ye-fa-zhan.md)
-* [期望值函数与其在工作中的应用](gong-zuo-fang-fa-lun/qi-wang-zhi-han-shu-yu-qi-zai-gong-zuo-zhong-de-ying-yong.md)
 
 ## 花名册
 
