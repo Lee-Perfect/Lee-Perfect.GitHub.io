@@ -14,7 +14,6 @@
 ## 工作规范
 
 * [考勤制度](t3/2days.md)
-* [Untitled](t3/untitled.md)
 
 ## 工作备忘录
 
@@ -22,7 +21,7 @@
 
 ## 课程设计
 
-* [Untitled](ke-cheng-she-ji/untitled.md)
+* [面试](ke-cheng-she-ji/mian-shi.md)
 
 ## 工作方法论
 
