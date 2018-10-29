@@ -30,7 +30,11 @@
 
 ## 工作方法论
 
-* [Untitled](gong-zuo-fang-fa-lun/untitled.md)
+* [不做伪工作者](gong-zuo-fang-fa-lun/bu-zuo-wei-gong-zuo-zhe.md)
+* [也谈10000小时](gong-zuo-fang-fa-lun/ye-tan-10000-xiao-shi.md)
+* [再谈10000小时](gong-zuo-fang-fa-lun/zai-tan-10000-xiao-shi.md)
+* [五级工程师和职业发展](gong-zuo-fang-fa-lun/wu-ji-gong-cheng-shi-he-zhi-ye-fa-zhan.md)
+* [期望值函数与其在工作中的应用](gong-zuo-fang-fa-lun/qi-wang-zhi-han-shu-yu-qi-zai-gong-zuo-zhong-de-ying-yong.md)
 
 ## 花名册
 
