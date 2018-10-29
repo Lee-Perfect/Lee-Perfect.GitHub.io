@@ -22,8 +22,11 @@
 ## 课程设计
 
 * [面试](ke-cheng-she-ji/mian-shi.md)
-* [笔试](ke-cheng-she-ji/bi-shi.md)
-* [申论](ke-cheng-she-ji/shen-lun.md)
+* [笔试](ke-cheng-she-ji/bi-shi/README.md)
+  * [申论](ke-cheng-she-ji/bi-shi/shen-lun.md)
+  * [言语](ke-cheng-she-ji/bi-shi/yan-yu.md)
+  * [判断](ke-cheng-she-ji/bi-shi/pan-duan.md)
+  * [数资](ke-cheng-she-ji/bi-shi/shu-zi.md)
 
 ## 工作方法论
 
