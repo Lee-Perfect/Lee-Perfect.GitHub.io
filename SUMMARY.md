@@ -22,6 +22,8 @@
 ## 课程设计
 
 * [面试](ke-cheng-she-ji/mian-shi.md)
+* [笔试](ke-cheng-she-ji/bi-shi.md)
+* [申论](ke-cheng-she-ji/shen-lun.md)
 
 ## 工作方法论
 
