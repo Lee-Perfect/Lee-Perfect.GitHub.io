@@ -13,7 +13,7 @@
 
 ## 工作规范
 
-* [考勤](t3/2days.md)
+* [考勤制度](t3/2days.md)
 * [Untitled](t3/untitled.md)
 
 ## 工作备忘录
