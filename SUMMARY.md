@@ -17,7 +17,7 @@
 
 ## 工作备忘录
 
-* [Untitled](gong-zuo-bei-wang-lu/untitled.md)
+* [专业主义，从备忘录开始](gong-zuo-bei-wang-lu/untitled.md)
 
 ## 课程设计
 
