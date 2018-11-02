@@ -1,12 +1,26 @@
 # 判断组
 
-## Can I become who I want to be? OKOK
+## 组长 宋立杰
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+![](../../.gitbook/assets/dsc3765-kao-bei.jpg)
 
-## Have you had a chance to answer the previous question?
+## 梁祥焱
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+![](../../.gitbook/assets/15e8966ecac34d2b96efcb17d91330b0-kao-bei.jpg)
 
+## 谢鲲
 
+![](../../.gitbook/assets/di-yi-jiang.jpg)
+
+## 尹世行
+
+![](../../.gitbook/assets/342105517394830924-kao-bei.jpg)
+
+## 彭伟
+
+![](../../.gitbook/assets/b21db4f146cf4f5b9b2cb734e1a25a5a-kao-bei.jpg)
+
+## 李伟波
+
+![](../../.gitbook/assets/50be387891fb4e5eb862e4a1867e5cdb-kao-bei.jpg)
 
