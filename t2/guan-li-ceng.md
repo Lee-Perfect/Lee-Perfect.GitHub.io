@@ -2,7 +2,7 @@
 
 ## 分校校长 黎炉青
 
-## 分校教研副 林国城
+## 分校教研副校长 林国城
 
 ![&#x503E;&#x56FD;&#x503E;&#x57CE;](../.gitbook/assets/wei-xin-tu-pian-20181031114536-kao-bei.jpg)
 
@@ -10,7 +10,7 @@
 
 ![](../.gitbook/assets/wei-xin-tu-pian-20181102140413.png)
 
-## 事业单位&金融项目部负责人 何雪斌
+## 事业单位&金融项目负责人 何雪斌
 
 ![](../.gitbook/assets/he-xue-bin.jpg)
 
