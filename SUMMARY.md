@@ -13,17 +13,19 @@
 
 ## 工作方法论
 
-* [基础原则](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/README.md)
+* [基础方法](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/README.md)
   * [不做「伪工作者」](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/bu-zuo-wei-gong-zuo-zhe.md)
   * [也谈10000小时](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/ye-tan-10000-xiao-shi.md)
   * [再谈10000小时](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/zai-tan-10000-xiao-shi.md)
   * [职场上的4个误区](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/zhi-chang-shang-de-4-ge-wu-qu.md)
+* [进阶方法](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/README.md)
+  * [期望值函数与其在工作中的应用](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/qi-wang-zhi-han-shu-yu-qi-zai-gong-zuo-zhong-de-ying-yong.md)
+  * [做好最后的1%](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/zuo-hao-zui-hou-de-1.md)
 * [职业发展](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/README.md)
   * [职场完美进阶攻略](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/zhi-chang-wan-mei-jin-jie-gong-lve.md)
   * [五级工程师和职业发展](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/wu-ji-gong-cheng-shi-he-zhi-ye-fa-zhan.md)
-* [进阶原则](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/README.md)
-  * [期望值函数与其在工作中的应用](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/qi-wang-zhi-han-shu-yu-qi-zai-gong-zuo-zhong-de-ying-yong.md)
-  * [做好最后的1%](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/zuo-hao-zui-hou-de-1.md)
+* [管理方法](gong-zuo-fang-fa-lun/guan-li-fang-fa.md)
+* [OKR](gong-zuo-fang-fa-lun/okr.md)
 
 ## 工作规范
 
