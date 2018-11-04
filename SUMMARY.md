@@ -33,7 +33,7 @@
   * [职业天花板来自认识的局限性](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/zhi-ye-tian-hua-ban-lai-zi-ren-shi-de-ju-xian-xing.md)
 * [管理方法](gong-zuo-fang-fa-lun/guan-li-fang-fa/README.md)
   * [OKR](gong-zuo-fang-fa-lun/guan-li-fang-fa/okr.md)
-* [工作任务的三条边](gong-zuo-fang-fa-lun/gong-zuo-ren-wu-de-san-tiao-bian.md)
+  * [工作任务的三条边](gong-zuo-fang-fa-lun/guan-li-fang-fa/gong-zuo-ren-wu-de-san-tiao-bian.md)
 
 ## 工作规范
 
