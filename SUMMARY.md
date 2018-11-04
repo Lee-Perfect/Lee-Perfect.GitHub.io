@@ -24,6 +24,7 @@
   * [期望值函数与其在工作中的应用](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/qi-wang-zhi-han-shu-yu-qi-zai-gong-zuo-zhong-de-ying-yong.md)
   * [做好最后的1%](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/zuo-hao-zui-hou-de-1.md)
   * [成就＝成功率x事情的量级x做事的速度](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/cheng-jiu-cheng-gong-lvxshi-qing-de-liang-jixzuo-shi-de-su-du.md)
+  * [把事情做好的三条边](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/ba-shi-qing-zuo-hao-de-san-tiao-bian.md)
 * [职业发展](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/README.md)
   * [职场完美进阶攻略](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/zhi-chang-wan-mei-jin-jie-gong-lve.md)
   * [五级工程师和职业发展](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/wu-ji-gong-cheng-shi-he-zhi-ye-fa-zhan.md)
