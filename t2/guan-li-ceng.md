@@ -12,6 +12,10 @@
 
 ![](../.gitbook/assets/wei-xin-tu-pian-20181104101357.jpg)
 
+## 公共关系部负责人&医疗项目部负责人 黄庆稳
+
+![](../.gitbook/assets/wei-xin-tu-pian-20181104214258.jpg)
+
 ## 双师项目负责人 陈小捷
 
 ![](../.gitbook/assets/wei-xin-tu-pian-20181102140413.png)
@@ -19,6 +23,10 @@
 ## 事业单位&金融项目负责人 何雪斌
 
 ![](../.gitbook/assets/he-xue-bin.jpg)
+
+## 教务部教务主管 梁晶晶
+
+![](../.gitbook/assets/wei-xin-tu-pian-20181104213527.jpg)
 
 ## 教师分校负责人 覃军豪
 
