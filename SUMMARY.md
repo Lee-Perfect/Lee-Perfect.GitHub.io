@@ -26,6 +26,7 @@
   * [五级工程师和职业发展](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/wu-ji-gong-cheng-shi-he-zhi-ye-fa-zhan.md)
 * [管理方法](gong-zuo-fang-fa-lun/guan-li-fang-fa.md)
 * [OKR](gong-zuo-fang-fa-lun/okr.md)
+* [职业天花板来自认识的局限性](gong-zuo-fang-fa-lun/zhi-ye-tian-hua-ban-lai-zi-ren-shi-de-ju-xian-xing.md)
 
 ## 工作规范
 
