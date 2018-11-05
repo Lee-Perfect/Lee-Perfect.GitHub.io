@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [新手必读](xin-shou-bi-du.md)
+* [最近更新](zui-jin-geng-xin.md)
 
 ## 财务报销
 
