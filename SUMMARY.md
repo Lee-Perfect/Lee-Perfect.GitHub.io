@@ -15,7 +15,7 @@
 ## 工作方法论
 
 * [基础方法](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/README.md)
-  * [不做「伪工作者」](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/bu-zuo-wei-gong-zuo-zhe.md)
+  * [不做「伪工作者」](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/bu-zuo-wei-gong-zuo-zhe-1.md)
   * [也谈10000小时](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/ye-tan-10000-xiao-shi.md)
   * [再谈10000小时](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/zai-tan-10000-xiao-shi.md)
   * [职场上的4个误区](gong-zuo-fang-fa-lun/ji-chu-yuan-ze/zhi-chang-shang-de-4-ge-wu-qu.md)
@@ -27,7 +27,6 @@
   * [事倍功半 vs 事半功倍](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/shi-bei-gong-ban-vs-shi-ban-gong-bei.md)
   * [成就＝成功率x事情的量级x做事的速度](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/cheng-jiu-cheng-gong-lvxshi-qing-de-liang-jixzuo-shi-de-su-du.md)
   * [走出越穷越忙，越忙越穷的怪圈](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/zou-chu-yue-qiong-yue-mang-yue-mang-yue-qiong-de-guai-quan.md)
-  * [期望值函数与其在工作中的应用](gong-zuo-fang-fa-lun/jin-jie-yuan-ze/qi-wang-zhi-han-shu-yu-qi-zai-gong-zuo-zhong-de-ying-yong.md)
 * [职业发展](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/README.md)
   * [职场完美进阶攻略](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/zhi-chang-wan-mei-jin-jie-gong-lve.md)
   * [五级工程师和职业发展](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/wu-ji-gong-cheng-shi-he-zhi-ye-fa-zhan.md)
@@ -35,6 +34,7 @@
 * [管理方法](gong-zuo-fang-fa-lun/guan-li-fang-fa/README.md)
   * [OKR](gong-zuo-fang-fa-lun/guan-li-fang-fa/okr.md)
   * [工作任务的三条边](gong-zuo-fang-fa-lun/guan-li-fang-fa/gong-zuo-ren-wu-de-san-tiao-bian.md)
+  * [期望值函数与其在工作中的应用](gong-zuo-fang-fa-lun/guan-li-fang-fa/qi-wang-zhi-han-shu-yu-qi-zai-gong-zuo-zhong-de-ying-yong.md)
 
 ## 工作规范
 
