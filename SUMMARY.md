@@ -32,7 +32,11 @@
   * [五级工程师和职业发展](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/wu-ji-gong-cheng-shi-he-zhi-ye-fa-zhan.md)
   * [职业天花板来自认识的局限性](gong-zuo-fang-fa-lun/zhi-ye-fa-zhan/zhi-ye-tian-hua-ban-lai-zi-ren-shi-de-ju-xian-xing.md)
 * [管理方法](gong-zuo-fang-fa-lun/guan-li-fang-fa/README.md)
-  * [OKR](gong-zuo-fang-fa-lun/guan-li-fang-fa/okr.md)
+  * [目标管理](gong-zuo-fang-fa-lun/guan-li-fang-fa/okr/README.md)
+    * [要锁死目标，更要锁对目标](gong-zuo-fang-fa-lun/guan-li-fang-fa/okr/yao-suo-si-mu-biao-geng-yao-suo-dui-mu-biao.md)
+    * [目标和关键成果（OKR）](gong-zuo-fang-fa-lun/guan-li-fang-fa/okr/mu-biao-he-guan-jian-cheng-guo-okr.md)
+    * [OKR的SMART原则](gong-zuo-fang-fa-lun/guan-li-fang-fa/okr/okr-de-smart-yuan-ze.md)
+    * [谷歌的目标管理](gong-zuo-fang-fa-lun/guan-li-fang-fa/okr/gu-ge-de-mu-biao-guan-li.md)
   * [项目三角形：范围/时间/成本](gong-zuo-fang-fa-lun/guan-li-fang-fa/gong-zuo-ren-wu-de-san-tiao-bian.md)
   * [期望值函数与其在工作中的应用](gong-zuo-fang-fa-lun/guan-li-fang-fa/qi-wang-zhi-han-shu-yu-qi-zai-gong-zuo-zhong-de-ying-yong.md)
 
